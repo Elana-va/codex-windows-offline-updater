@@ -6,6 +6,8 @@ An auditable Windows workflow for downloading the complete, signed Codex MSIX pa
 
 This project is not affiliated with OpenAI or Microsoft. It cannot bypass account entitlement, subscription limits, regional restrictions, or server-side rollouts.
 
+Read the Chinese [development history](docs/development-history.md) for the real incident, decisions, failures, and fixes that produced this tool.
+
 ## Quick start
 
 ```powershell

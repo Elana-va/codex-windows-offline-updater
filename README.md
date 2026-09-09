@@ -8,6 +8,8 @@
 
 > 本项目不是 OpenAI 或 Microsoft 官方项目，也不能绕过账号资格、地区限制、服务端灰度或订阅限制。
 
+想了解它如何从一次真实故障演变成完整工具，请阅读 [开发历程：从无法使用 Microsoft Store 到可审计更新器](docs/development-history.md)。
+
 ## 它解决什么
 
 - Microsoft Store 无法打开、无法更新或系统没有可用的商店环境。
