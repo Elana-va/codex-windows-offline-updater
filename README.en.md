@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-An auditable Windows workflow for downloading the complete, signed Codex MSIX package from Microsoft services, validating it, installing updates, and optionally removing a stale local model catalog override.
+An auditable Windows workflow refined through multiple real Codex updates since July 2026. It downloads the complete signed MSIX from Microsoft services, validates it, installs updates, and can remove a stale local model catalog override.
 
 This project is not affiliated with OpenAI or Microsoft. It cannot bypass account entitlement, subscription limits, regional restrictions, or server-side rollouts.
 
