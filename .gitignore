@@ -1,0 +1,20 @@
+# Downloaded Microsoft Store packages
+*.appx
+*.appxbundle
+*.eappx
+*.emsix
+*.msix
+*.msixbundle
+*.download
+
+# Generated download directories and manifests
+microsoft-store-downloads/
+package-manifest.json
+complete-update-after-exit.ps1
+complete-update-after-exit.log
+
+# Local tooling
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Windows 离线更新器"
+  short_description: "下载并验证官方 Codex MSIX，诊断旧模型目录"
+  default_prompt: "Use $codex-windows-offline-updater to diagnose my Codex Windows installation before making changes."

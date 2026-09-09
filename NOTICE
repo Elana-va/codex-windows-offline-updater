@@ -1,0 +1,15 @@
+This project contains portions derived from StoreDev/StoreLib:
+https://github.com/StoreDev/StoreLib
+
+The Microsoft Store package downloader was adapted from:
+https://github.com/hanyu1212/microsoft-store-package-downloader-skill
+
+Modifications include a compatibility fix for multi-value Content-Length
+headers and a separate Codex update, diagnostics, model-catalog repair, and
+safe restart workflow.
+
+StoreLib is licensed under the Mozilla Public License 2.0. The corresponding
+source reference and license are included under references/storelib/.
+
+Microsoft, Microsoft Store, Windows, OpenAI, and Codex are trademarks of their
+respective owners. This project is not affiliated with Microsoft or OpenAI.
